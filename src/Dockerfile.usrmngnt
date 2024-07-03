@@ -1,4 +1,4 @@
-FROM python:slim-bookworm
+FROM python:3.12.4-slim-bookworm
 ENV TERM xterm
 LABEL authors="kamalsaidevarapalli"
 LABEL service="USER_MANAGEMENT"
